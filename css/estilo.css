@@ -25,4 +25,7 @@ h1 {
     color: rgb(0, 0, 0);
     background-color: rgb(247, 220, 220);
 }
-
+#volver-atras {
+    text-align:end;/* Para centrar el botón si lo deseas */
+    margin-top: 50px; /* Agrega espacio superior según tu preferencia */
+}

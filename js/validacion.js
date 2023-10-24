@@ -23,3 +23,5 @@ function mostrarProducto(id){
     prodBlock.style.display = 'block';
   }
 }
+
+const forms = document.querySelectorAll('.needs-validation')
